@@ -30,7 +30,8 @@ function draw() {
   background('#d6dcf5');
   fill("#81d4fa");
   stroke("#152238");
-  image(steveee, noseX, noseY, differencex, 300);
+  textSize(differencex-150);
+  text("ADITI IS A DONKEY", 20, 400);
   document.getElementById("square_sizeofadonkey").innerHTML="width of the image is-"+differencex+"px and the height of the image is-300px";
 }
 
