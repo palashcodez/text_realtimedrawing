@@ -1,0 +1,47 @@
+#donkeykong{
+    padding: 15px;
+    font-size: 28px;
+    background-color:rgb(0, 82, 163);
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    box-shadow: 15px 15px 15px black;
+    margin: 0px;
+    width: 100%;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Press Start 2P', cursive;
+    height: 250px;
+}
+
+#camelkong{
+    font-size: 24px;
+    color: rgb(0, 27, 63);
+    width: 100%;
+    background-color: rgb(0, 153, 255);
+}
+
+canvas{
+    border:5px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #000;
+}
+
+
+.footofadonkey{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    background-color: #5d5d5d;
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#square_sizeofadonkey{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 24px;
+    color: #ffffff;
+}
